@@ -41,35 +41,35 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/darage"><strong>Darage</strong></a><br><sub>OTF</sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/darage/main/images/specimen.png" width="300" alt="Darage specimen"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/darage/main/images/specimen.png" width="360" alt="Darage specimen"></td>
       <td align="center">Traditional</td>
       <td align="center"><code>ASCII</code></td>
       <td>Ships with its Glyphs source</td>
     </tr>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/mandara"><strong>Mandara</strong></a><br><sub>TTF</sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/mandara/main/images/specimen.png" width="300" alt="Mandara specimen"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/mandara/main/images/specimen.png" width="360" alt="Mandara specimen"></td>
       <td align="center">Traditional</td>
       <td align="center"><code>ASCII</code></td>
       <td>Bold and rounded</td>
     </tr>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/allige"><strong>Allige</strong></a><br><sub>TTF</sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/allige/main/images/specimen.png" width="300" alt="Allige specimen"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/allige/main/images/specimen.png" width="360" alt="Allige specimen"></td>
       <td align="center"><em>Pedantic</em></td>
       <td align="center"><code>ASCII</code></td>
       <td>The Academy edition</td>
     </tr>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/mallige"><strong>Mallige</strong></a><br><sub>TTF</sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/mallige/main/images/specimen.png" width="300" alt="Mallige specimen"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/mallige/main/images/specimen.png" width="360" alt="Mallige specimen"></td>
       <td align="center">Traditional</td>
       <td align="center"><code>ASCII</code></td>
       <td>The largest set of conjuncts</td>
     </tr>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/Mallige_unicode"><strong>Mallige Unicode</strong></a><br><sub>TTF</sub></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/Mallige_unicode/main/specimens/specimen.png" width="300" alt="Mallige Unicode specimen"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/Mallige_unicode/main/specimens/specimen.png" width="360" alt="Mallige Unicode specimen"></td>
       <td align="center">Traditional</td>
       <td align="center"><code>Unicode</code></td>
       <td>86 Tulu-Tigalari characters, with OpenType shaping</td>
