@@ -78,26 +78,28 @@
       <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/allige/main/images/specimen.png" width="360" alt="Allige specimen"></td>
       <td align="center"><em>Dumbed&#8209;down</em></td>
       <td align="center"><code>ASCII</code></td>
-      <td>The Academy edition</td>
+      <td>The Academy edition, forked from Mallige</td>
     </tr>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/mallige"><strong>Mallige</strong></a><br><sub>TTF</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/mallige/main/images/specimen.png" width="360" alt="Mallige specimen"></td>
       <td align="center">Traditional</td>
       <td align="center"><code>ASCII</code></td>
-      <td>The largest set of conjuncts</td>
+      <td>Faithful to the standard, with the largest set of conjuncts</td>
     </tr>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/Mallige_unicode"><strong>Mallige Unicode</strong></a><br><sub>TTF</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/Mallige_unicode/main/specimens/specimen.png" width="360" alt="Mallige Unicode specimen"></td>
       <td align="center">Traditional</td>
       <td align="center"><code>Unicode</code></td>
-      <td>86 Tulu-Tigalari characters, with OpenType shaping</td>
+      <td>Faithful to the standard as Unicode: 86 Tulu-Tigalari characters, with OpenType shaping</td>
     </tr>
   </tbody>
 </table>
 
 Download any font from its repository's **Releases** page.
+
+**Mallige** and **Mallige Unicode** are the faithful representations of [the standard for writing Tuḷu](https://tantrytulufonts.github.io/tulu-script-standard/). The same work is being extended to the other fonts, and they are being ported to Unicode too. The exception is Allige, which was forked from Mallige and stays as it is.
 
 ---
 
