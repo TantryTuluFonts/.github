@@ -13,6 +13,7 @@
 </p>
 
 <p align="center">
+  <a href="https://tantrytulufonts.github.io/"><strong>Website</strong></a> &nbsp;·&nbsp;
   <a href="#the-family">Fonts</a> &nbsp;·&nbsp;
   <a href="#typing-tulu">Typing</a> &nbsp;·&nbsp;
   <a href="#tools">Tools</a> &nbsp;·&nbsp;
