@@ -56,7 +56,7 @@
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/allige"><strong>Allige</strong></a><br><sub>TTF</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/allige/main/images/specimen.png" width="360" alt="Allige specimen"></td>
-      <td align="center"><em>Dumbed-down</em></td>
+      <td align="center"><em>Dumbed&#8209;down</em></td>
       <td align="center"><code>ASCII</code></td>
       <td>The Academy edition</td>
     </tr>
