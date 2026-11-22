@@ -1,0 +1,14 @@
+name: Suggestion
+description: A missing conjunct, a new glyph, a documentation fix or any other idea
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like to see?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help?

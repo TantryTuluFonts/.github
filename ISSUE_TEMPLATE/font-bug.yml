@@ -1,0 +1,36 @@
+name: Font problem
+description: A glyph, key, conjunct or rendering problem in a font
+labels: ["bug"]
+body:
+  - type: input
+    id: font
+    attributes:
+      label: Font and version
+      description: For example "Mallige v1.4"
+    validations:
+      required: true
+  - type: textarea
+    id: keys
+    attributes:
+      label: Keys you typed
+      description: The exact keystrokes, for example `kAt`
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What you got
+      description: A screenshot helps a lot
+    validations:
+      required: true
+  - type: input
+    id: env
+    attributes:
+      label: Application and operating system
+      description: For example "LibreOffice on Windows 11"
