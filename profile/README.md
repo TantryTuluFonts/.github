@@ -14,6 +14,7 @@
 
 <p align="center">
   <a href="https://tantrytulufonts.github.io/"><strong>Website</strong></a> &nbsp;·&nbsp;
+  <a href="#the-book-and-the-standard">Book</a> &nbsp;·&nbsp;
   <a href="#the-family">Fonts</a> &nbsp;·&nbsp;
   <a href="#typing-tulu">Typing</a> &nbsp;·&nbsp;
   <a href="#tools">Tools</a> &nbsp;·&nbsp;
@@ -24,6 +25,24 @@
 <p align="center">
   <sub>5 fonts &nbsp;·&nbsp; 1 typing standard &nbsp;·&nbsp; 1 keyboard &nbsp;·&nbsp; every one free under the SIL Open Font License 1.1</sub>
 </p>
+
+---
+
+## The book and the standard
+
+<table>
+  <tr>
+    <td width="170" align="center"><a href="https://tantrytulufonts.github.io/tulu-varnamruta/"><img src="https://tantrytulufonts.github.io/assets/varnamrta-cover.jpg" width="150" alt="Cover of Tuḷu Varṇāmr̥ta"></a></td>
+    <td>
+      <h3><a href="https://tantrytulufonts.github.io/tulu-varnamruta/">Tuḷu Varṇāmr̥ta: A Prescriptive Primer to the Tuḷu Script</a></h3>
+      Everything you need to read and write the traditional Tuḷu script, in one book. It also sets out <a href="https://tantrytulufonts.github.io/tulu-script-standard/"><strong>the standard for writing Tuḷu</strong></a> that the language has long lacked: the traditional script kept exactly as it is, and still ready for modern Tuḷu. By Prahlad Prasad Tantry.
+      <br><br>
+      <a href="https://api.whatsapp.com/send/?phone=918722229750&text=Hello%21+I%27m+interested+in+Tulu+Varnamruta%2C+the+Tulu+script+primer.+Please+share+the+book%27s+price+and+details+on+how+to+purchase+it"><strong>Buy on WhatsApp</strong></a> &nbsp;·&nbsp;
+      <a href="https://tantrytulufonts.github.io/tulu-varnamruta/">About the book</a> &nbsp;·&nbsp;
+      <a href="https://tantrytulufonts.github.io/tulu-script-standard/">Why the standard matters</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
