@@ -41,19 +41,22 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/darage"><strong>Darage</strong></a><br><sub>OTF</sub></td>
-      <td align="center">Calligraphic</td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/darage/main/images/specimen.png" width="360" alt="Darage specimen"></td>
+      <td align="center">Traditional</td>
       <td align="center"><code>ASCII</code></td>
-      <td>Ships with its Glyphs source</td>
+      <td>Calligraphic, with its Glyphs source included</td>
     </tr>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/mandara"><strong>Mandara</strong></a><br><sub>TTF</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/mandara/main/images/specimen.png" width="360" alt="Mandara specimen"></td>
       <td align="center"><em>Streamlined</em></td>
       <td align="center"><code>ASCII</code></td>
       <td>Bold and rounded</td>
     </tr>
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/allige"><strong>Allige</strong></a><br><sub>TTF</sub></td>
-      <td align="center"><em>Streamlined</em></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/allige/main/images/specimen.png" width="360" alt="Allige specimen"></td>
+      <td align="center"><em>Dumbed-down</em></td>
       <td align="center"><code>ASCII</code></td>
       <td>The Academy edition</td>
     </tr>
