@@ -128,10 +128,10 @@ Type `EAamAX nEma narayNay` and every AccTantra font shows *Om namo Narayanaya*.
       <a href="https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/EXAMPLES.md">Examples</a>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://prahladtantry.github.io/tulu-transliterator/">Transliterator</a></h3>
+      <h3><a href="https://tantrytulufonts.github.io/tulu-transliterator/">Transliterator</a></h3>
       Converts between AccTantra text and IAST, Devanagari, Kannada or Malayalam, in both directions.
       <br><br>
-      <a href="https://prahladtantry.github.io/tulu-transliterator/">Open the tool</a>
+      <a href="https://tantrytulufonts.github.io/tulu-transliterator/">Open the tool</a>
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/TantryTuluFonts/AccTantra_Unicode">AccTantra Unicode</a></h3>
