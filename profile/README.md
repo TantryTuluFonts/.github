@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="logo/tantry-logo-white.png">
+    <img src="logo/tantry-logo.png" alt="Tantry Tulu Font Foundry" width="360">
+  </picture>
+</p>
+
 <h1 align="center">Tantry Tulu Font Foundry</h1>
 <p align="center"><strong>The Tantry Family of Tulu Fonts</strong><br>Open-source fonts for Tulu lipi, designed by Prahlad Prasad Tantry.</p>
 
