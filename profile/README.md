@@ -6,46 +6,144 @@
 </p>
 
 <h1 align="center">Tantry Tulu Font Foundry</h1>
-<p align="center"><strong>The Tantry Family of Tulu Fonts</strong><br>Open-source fonts for Tulu lipi, designed by Prahlad Prasad Tantry.</p>
 
-Every font here is free to use, study and share under the [SIL Open Font License 1.1](https://openfontlicense.org). Download the fonts from each repository's **Releases** page.
+<p align="center">
+  <em>The Tantry Family of Tulu Fonts</em><br>
+  Open-source fonts for <strong>Tulu lipi</strong>, designed by <strong>Prahlad Prasad Tantry</strong>.
+</p>
+
+<p align="center">
+  <a href="#the-family">Fonts</a> &nbsp;·&nbsp;
+  <a href="#typing-tulu">Typing</a> &nbsp;·&nbsp;
+  <a href="#tools">Tools</a> &nbsp;·&nbsp;
+  <a href="#ascii-or-unicode">ASCII or Unicode?</a> &nbsp;·&nbsp;
+  <a href="#contribute">Contribute</a>
+</p>
+
+<p align="center">
+  <sub>5 fonts &nbsp;·&nbsp; 1 typing standard &nbsp;·&nbsp; 1 keyboard &nbsp;·&nbsp; every one free under the SIL Open Font License 1.1</sub>
+</p>
+
+---
 
 ## The family
 
-| Font | Preview | Format | Notes |
-|---|---|---|---|
-| [**Darage**](https://github.com/TantryTuluFonts/darage) | <img src="https://raw.githubusercontent.com/TantryTuluFonts/darage/main/images/specimen.png" width="320"> | OTF | Ships with its Glyphs source |
-| [**Mandara**](https://github.com/TantryTuluFonts/mandara) | <img src="https://raw.githubusercontent.com/TantryTuluFonts/mandara/main/images/specimen.png" width="320"> | TTF | Bold, rounded |
-| [**Allige**](https://github.com/TantryTuluFonts/allige) | <img src="https://raw.githubusercontent.com/TantryTuluFonts/allige/main/images/specimen.png" width="320"> | TTF | Academy edition |
-| [**Mallige**](https://github.com/TantryTuluFonts/mallige) | <img src="https://raw.githubusercontent.com/TantryTuluFonts/mallige/main/images/specimen.png" width="320"> | TTF | Largest set of conjuncts |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Font</th>
+      <th align="center">Preview</th>
+      <th align="center">Script</th>
+      <th align="center">Encoding</th>
+      <th align="left">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/TantryTuluFonts/darage"><strong>Darage</strong></a><br><sub>OTF</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/darage/main/images/specimen.png" width="300" alt="Darage specimen"></td>
+      <td align="center">Traditional</td>
+      <td align="center"><code>ASCII</code></td>
+      <td>Ships with its Glyphs source</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TantryTuluFonts/mandara"><strong>Mandara</strong></a><br><sub>TTF</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/mandara/main/images/specimen.png" width="300" alt="Mandara specimen"></td>
+      <td align="center">Traditional</td>
+      <td align="center"><code>ASCII</code></td>
+      <td>Bold and rounded</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TantryTuluFonts/allige"><strong>Allige</strong></a><br><sub>TTF</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/allige/main/images/specimen.png" width="300" alt="Allige specimen"></td>
+      <td align="center"><em>Pedantic</em></td>
+      <td align="center"><code>ASCII</code></td>
+      <td>The Academy edition</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TantryTuluFonts/mallige"><strong>Mallige</strong></a><br><sub>TTF</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/mallige/main/images/specimen.png" width="300" alt="Mallige specimen"></td>
+      <td align="center">Traditional</td>
+      <td align="center"><code>ASCII</code></td>
+      <td>The largest set of conjuncts</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/TantryTuluFonts/Mallige_unicode"><strong>Mallige Unicode</strong></a><br><sub>TTF</sub></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/Mallige_unicode/main/specimens/specimen.png" width="300" alt="Mallige Unicode specimen"></td>
+      <td align="center">Traditional</td>
+      <td align="center"><code>Unicode</code></td>
+      <td>86 Tulu-Tigalari characters, with OpenType shaping</td>
+    </tr>
+  </tbody>
+</table>
 
-These four are **AccTantra** fonts: they share one typing standard, so the same keystrokes work in every one of them.
+Download any font from its repository's **Releases** page.
 
-## One typing standard
+---
 
-**[AccTantra](https://github.com/TantryTuluFonts/AccTantra)** is the key map behind the family. You type with a normal keyboard, and the font draws Tulu. Because the keys never change, text written for one font works in all of them.
+## Typing Tulu
 
-Type `EAamA nEma narayNay` and every AccTantra font shows *Om namo Narayanaya*.
+The four **ASCII** fonts share one typing standard, **[AccTantra](https://github.com/TantryTuluFonts/AccTantra)**. You type with a normal keyboard and the font draws Tulu. Because the keys never change, text written for one font works in all of them.
 
-- [Key map](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/KEYMAP.md): every key and the glyph it gives
-- [Conjunct reference](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/CONJUNCTS.md): which consonant pairs each font joins
-- [Typing examples](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/EXAMPLES.md): worked, keystroke by keystroke
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TantryTuluFonts/AccTantra/main/assets/example-om-namo-narayanaya.png" width="620" alt="The keys EAamAX nEma narayNay shown as Om namo Narayanaya in four fonts">
+</p>
 
-## Convert text
+Type `EAamAX nEma narayNay` and every AccTantra font shows *Om namo Narayanaya*.
 
-The **[Tulu transliterator](https://prahladtantry.github.io/tulu-transliterator/)** converts between AccTantra text and IAST, Devanagari, Kannada or Malayalam, in both directions.
+---
 
-## Real Unicode for Tulu-Tigalari
+## Tools
 
-For text that stays text, in any app and any search:
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/TantryTuluFonts/AccTantra">AccTantra</a></h3>
+      The key map behind the ASCII fonts: every key, every conjunct, worked examples.
+      <br><br>
+      <a href="https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/KEYMAP.md">Key map</a> ·
+      <a href="https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/CONJUNCTS.md">Conjuncts</a> ·
+      <a href="https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/EXAMPLES.md">Examples</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://prahladtantry.github.io/tulu-transliterator/">Transliterator</a></h3>
+      Converts between AccTantra text and IAST, Devanagari, Kannada or Malayalam, in both directions.
+      <br><br>
+      <a href="https://prahladtantry.github.io/tulu-transliterator/">Open the tool</a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/TantryTuluFonts/AccTantra_Unicode">AccTantra Unicode</a></h3>
+      A Keyman keyboard that types Tulu-Tigalari as real Unicode, using the AccTantra logic.
+      <br><br>
+      <a href="https://github.com/TantryTuluFonts/AccTantra_Unicode">Get the keyboard</a>
+    </td>
+  </tr>
+</table>
 
-- **[Mallige_unicode](https://github.com/TantryTuluFonts/Mallige_unicode)**: a Unicode font for the Tulu-Tigalari script, with OpenType shaping
-- **[AccTantra_Unicode](https://github.com/TantryTuluFonts/AccTantra_Unicode)**: a Keyman keyboard that types Tulu-Tigalari using the AccTantra logic
+---
 
-## Using the fonts
+## ASCII or Unicode?
 
-Every font is free under the [SIL Open Font License 1.1](https://openfontlicense.org): use it anywhere, study it, make your own versions. Download from each repository's **Releases** page. Found a problem or want to suggest something? [Open an issue](https://github.com/TantryTuluFonts/.github/issues/new/choose) in the font's repository.
+| | **ASCII** fonts | **Unicode** font |
+|---|---|---|
+| Fonts | Darage, Mandara, Allige, Mallige | Mallige Unicode |
+| How you type | AccTantra keys on any keyboard | The AccTantra Unicode keyboard |
+| What is stored | Latin letters, drawn as Tulu by the font | Real Tulu-Tigalari characters |
+| Looks right when | the font is applied | any Tulu-Tigalari font is applied |
+| Search and copy-paste | breaks if the font is lost | works everywhere |
+| Pick it for | print, posters, design work, legacy documents | text that must live on: web, data, archives |
 
-## Credit
+---
 
-All fonts, the AccTantra standard and the keyboard are designed by **Prahlad Prasad Tantry**. If you use them, please keep that credit.
+## Contribute
+
+Found a wrong glyph, a missing conjunct, or a typo? Please read the [contributing guide](https://github.com/TantryTuluFonts/.github/blob/main/CONTRIBUTING.md) and [open an issue](https://github.com/TantryTuluFonts/.github/issues/new/choose) in the font's repository. The exact keys you typed are the most useful thing to include.
+
+---
+
+<p align="center">
+  <sub>
+    All fonts, the AccTantra standard and the keyboard are designed by <strong>Prahlad Prasad Tantry</strong>.<br>
+    Licensed under the <a href="https://openfontlicense.org">SIL Open Font License 1.1</a>. If you use them, please keep that credit.
+  </sub>
+</p>
