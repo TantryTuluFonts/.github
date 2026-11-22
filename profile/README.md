@@ -31,6 +31,10 @@ Type `EAamA nEma narayNay` and every AccTantra font shows *Om namo Narayanaya*.
 - [Conjunct reference](https://github.com/PrahladTantry/AccTantra/blob/main/docs/CONJUNCTS.md): which consonant pairs each font joins
 - [Typing examples](https://github.com/PrahladTantry/AccTantra/blob/main/docs/EXAMPLES.md): worked, keystroke by keystroke
 
+## Convert text
+
+The **[Tulu transliterator](https://prahladtantry.github.io/tulu-transliterator/)** converts between AccTantra text and IAST, Devanagari, Kannada or Malayalam, in both directions.
+
 ## Real Unicode for Tulu-Tigalari
 
 For text that stays text, in any app and any search:
