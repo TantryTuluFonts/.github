@@ -19,8 +19,6 @@ Every font here is free to use, study and share under the [SIL Open Font License
 | [**Allige**](https://github.com/TantryTuluFonts/allige) | <img src="https://raw.githubusercontent.com/TantryTuluFonts/allige/main/images/specimen.png" width="320"> | TTF | Academy edition |
 | [**Mallige**](https://github.com/TantryTuluFonts/mallige) | <img src="https://raw.githubusercontent.com/TantryTuluFonts/mallige/main/images/specimen.png" width="320"> | TTF | Largest set; includes Unicode Tulu-Tigalari |
 
-**In development:** [Kepula](https://github.com/TantryTuluFonts/kepula) and [Tigalari](https://github.com/TantryTuluFonts/tigalari).
-
 ## Credit
 
 All fonts in this family are designed by **Prahlad Prasad Tantry**. If you use them, please keep that credit.
