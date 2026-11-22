@@ -99,7 +99,7 @@
 
 Download any font from its repository's **Releases** page.
 
-**Mallige** and **Mallige Unicode** are the faithful representations of [the standard for writing Tuḷu](https://tantrytulufonts.github.io/tulu-script-standard/). The same work is being extended to the other fonts, and they are being ported to Unicode too. The exception is Allige, which was forked from Mallige and stays as it is.
+**Mallige** and **Mallige Unicode** are the faithful representations of [the standard for writing Tuḷu](https://tantrytulufonts.github.io/tulu-script-standard/). The same work is being extended to the other fonts, and they are being ported to Unicode too, except for Allige, which was forked from Mallige.
 
 ---
 
