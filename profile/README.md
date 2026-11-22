@@ -162,6 +162,8 @@ Type `EAamAX nEma narayNay` and every AccTantra font shows *Om namo Narayanaya*.
 
 Found a wrong glyph, a missing conjunct, or a typo? Please read the [contributing guide](https://github.com/TantryTuluFonts/.github/blob/main/CONTRIBUTING.md) and [open an issue](https://github.com/TantryTuluFonts/.github/issues/new/choose) in the font's repository. The exact keys you typed are the most useful thing to include.
 
+For questions, permissions or press, write to **prahladtantry89@gmail.com**, or see the [contact page](https://tantrytulufonts.github.io/about/#contact).
+
 ---
 
 <p align="center">
