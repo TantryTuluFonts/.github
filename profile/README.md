@@ -49,7 +49,7 @@
     <tr>
       <td><a href="https://github.com/TantryTuluFonts/mandara"><strong>Mandara</strong></a><br><sub>TTF</sub></td>
       <td align="center"><img src="https://raw.githubusercontent.com/TantryTuluFonts/mandara/main/images/specimen.png" width="360" alt="Mandara specimen"></td>
-      <td align="center"><em>Streamlined</em></td>
+      <td align="center"><em>Dumbed&#8209;down</em></td>
       <td align="center"><code>ASCII</code></td>
       <td>Bold and rounded</td>
     </tr>
