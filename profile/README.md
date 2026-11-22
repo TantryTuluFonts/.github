@@ -36,6 +36,7 @@
     <td>
       <h3><a href="https://tantrytulufonts.github.io/tulu-varnamruta/">Tuḷu Varṇāmr̥ta: A Prescriptive Primer to the Tuḷu Script</a></h3>
       Everything you need to read and write the traditional Tuḷu script, in one book. It also sets out <a href="https://tantrytulufonts.github.io/tulu-script-standard/"><strong>the standard for writing Tuḷu</strong></a> that the language has long lacked: the traditional script kept exactly as it is, and still ready for modern Tuḷu. By Prahlad Prasad Tantry.
+      <br><sub>ISBN 978-81-180123-0-6 · Paperback · First edition, 2026</sub>
       <br><br>
       <a href="https://api.whatsapp.com/send/?phone=918722229750&text=Hello%21+I%27m+interested+in+Tulu+Varnamruta%2C+the+Tulu+script+primer.+Please+share+the+book%27s+price+and+details+on+how+to+purchase+it"><strong>Buy on WhatsApp</strong></a> &nbsp;·&nbsp;
       <a href="https://tantrytulufonts.github.io/tulu-varnamruta/">About the book</a> &nbsp;·&nbsp;
