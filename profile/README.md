@@ -23,13 +23,13 @@ These four are **AccTantra** fonts: they share one typing standard, so the same 
 
 ## One typing standard
 
-**[AccTantra](https://github.com/PrahladTantry/AccTantra)** is the key map behind the family. You type with a normal keyboard, and the font draws Tulu. Because the keys never change, text written for one font works in all of them.
+**[AccTantra](https://github.com/TantryTuluFonts/AccTantra)** is the key map behind the family. You type with a normal keyboard, and the font draws Tulu. Because the keys never change, text written for one font works in all of them.
 
 Type `EAamA nEma narayNay` and every AccTantra font shows *Om namo Narayanaya*.
 
-- [Key map](https://github.com/PrahladTantry/AccTantra/blob/main/docs/KEYMAP.md): every key and the glyph it gives
-- [Conjunct reference](https://github.com/PrahladTantry/AccTantra/blob/main/docs/CONJUNCTS.md): which consonant pairs each font joins
-- [Typing examples](https://github.com/PrahladTantry/AccTantra/blob/main/docs/EXAMPLES.md): worked, keystroke by keystroke
+- [Key map](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/KEYMAP.md): every key and the glyph it gives
+- [Conjunct reference](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/CONJUNCTS.md): which consonant pairs each font joins
+- [Typing examples](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/EXAMPLES.md): worked, keystroke by keystroke
 
 ## Convert text
 
@@ -39,8 +39,8 @@ The **[Tulu transliterator](https://prahladtantry.github.io/tulu-transliterator/
 
 For text that stays text, in any app and any search:
 
-- **[Mallige_unicode](https://github.com/PrahladTantry/Mallige_unicode)**: a Unicode font for the Tulu-Tigalari script, with OpenType shaping
-- **[AccTantra_Unicode](https://github.com/PrahladTantry/AccTantra_Unicode)**: a Keyman keyboard that types Tulu-Tigalari using the AccTantra logic
+- **[Mallige_unicode](https://github.com/TantryTuluFonts/Mallige_unicode)**: a Unicode font for the Tulu-Tigalari script, with OpenType shaping
+- **[AccTantra_Unicode](https://github.com/TantryTuluFonts/AccTantra_Unicode)**: a Keyman keyboard that types Tulu-Tigalari using the AccTantra logic
 
 ## Using the fonts
 

@@ -16,7 +16,7 @@ The exact keystrokes matter most, because the AccTantra fonts turn keys into Tul
 
 ## Suggesting a change
 
-- **Typing standard (AccTantra):** open an issue in [AccTantra](https://github.com/PrahladTantry/AccTantra) before changing key assignments. Every font depends on them, so changes need discussion.
+- **Typing standard (AccTantra):** open an issue in [AccTantra](https://github.com/TantryTuluFonts/AccTantra) before changing key assignments. Every font depends on them, so changes need discussion.
 - **A new font that follows the standard:** open an issue to say what you are building. We are happy to list compatible fonts.
 - **Documentation fixes:** these can go straight to a pull request.
 
